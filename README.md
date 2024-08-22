@@ -1,3 +1,8 @@
+usuario juanMartinez@gmail.com
+clave lima2024
+credenciales para ingresar a la prueba del programa 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
